@@ -1,82 +1,94 @@
-# 👨🏻‍💻 João Vitor Parizotto Benedetti
+<h1 align="center">👨🏻‍💻 João Vitor Parizotto Benedetti</h1>
 
-**`Desenvolvedor FullStack`**
+<h3 align="center">
+  Desenvolvedor FullStack em formação | Back-end • Integrações • Automação
+</h3>
 
 <p align="center">
-🌱 Desenvolvedor em formação | 💻 Foco em Back-end e Integração | 🚀 Entusiasta de Tecnologia<br>
-<a href="https://www.linkedin.com/in/jo%C3%A3ovitorpbenedetti/">🔗 LinkedIn</a> • <a href="https://github.com/Nopri010">🔗 GitHub</a> • 📧 jvbenedetti1423@gmail.com
+  <a href="https://www.linkedin.com/in/jo%C3%A3ovitorpbenedetti/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nopri010" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:jvbenedetti1423@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
+---
 
-### 🧑‍💻 Sobre mim
+## 🚀 Sobre mim
 
-Sou um entusiasta da tecnologia com experiência prática em:
+Sou desenvolvedor em formação, com foco em **back-end, integração de sistemas e automação de processos**.
 
-- Desenvolvimento com **ADVPL**, **PHP/Laravel**, **React Native**, **Spring Boot**
-- Manipulação de dados com **PL/SQL**, **PL/pgSQL**, **Python (Pandas)** e **Java**
-- Criação de rotinas, manutenção de sistemas legados e suporte técnico
+Atualmente trabalho como **Desenvolvedor na Cotriel**, atuando com **TOTVS Protheus**, **ADVPL**, integração de dados, rotinas customizadas e manutenção de sistemas corporativos.
 
-Atualmente trabalho como **Desenvolvedor na Cotriel**, atuando com **TOTVS Protheus**, **integração de dados** e **automação de processos**.
+Tenho experiência prática com **ADVPL, PHP/Laravel, Java/Spring Boot, Python, JavaScript, React Native, PL/SQL e PostgreSQL**.
 
 ---
 
-### 🎓 Formação Acadêmica
+## 🛠️ Tecnologias
 
-- 👨‍🎓 Técnico em Informática – IFRS Campus Ibirubá *(2021–2023)*
-- 🎓 Ciência da Computação – Atitus Educação *(2024 – Em andamento)*
-- 🧠 Certificações:
-  - Qualificação em Desenvolvimento de Soluções Full Stack *(400h)*
-  - Qualificação em Desenvolvimento de Aplicações Júnior *(400h)*
+<p>
+  <img src="https://img.shields.io/badge/ADVPL-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+</p>
 
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Linguagens de Programação**  
-![ADVPL](https://img.shields.io/badge/ADVPL-003366?style=flat&logo=totvs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frameworks e Bibliotecas**  
-![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-**Banco de Dados**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
-
-**Ferramentas & Outras Tecnologias**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/UX%2FUI-9146FF?style=flat&logo=figma&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
 ---
 
-### 📂 Projetos em Destaque
+## 🎓 Formação
 
-### 🌐 [social-network-laravel](https://github.com/Nopri010/social-network-laravel)
-Rede social desenvolvida com **PHP/Laravel**, incluindo:
-- Sistema de autenticação
-- Postagens e interações entre usuários
-- Arquitetura limpa e modular
+- **Técnico em Informática** — IFRS Campus Ibirubá `2021 – 2023`
+- **Ciência da Computação** — Atitus Educação `2024 – Em andamento`
+
+### Certificações
+
+- Desenvolvimento de Soluções Full Stack — 400h
+- Desenvolvimento de Aplicações Júnior — 400h
+
+---
+
+## 📂 Projetos em destaque
+
+### 🌐 social-network-laravel
+
+Rede social desenvolvida com **PHP/Laravel**, incluindo autenticação, postagens e interações entre usuários.
+
+<!-- Adicione o link do repositório caso esteja público -->
 
 ### 🧪 [APISample](https://github.com/Nopri010/APISample)
-API RESTful com:
-- Auto cadastro de usuários via `POST`
-- CRUD completo da entidade `Register`
-- Estrutura em camadas: *Controller, Service, Repository, Entity e DTO*
+
+API RESTful em **Java**, com cadastro de usuários, CRUD da entidade `Register` e estrutura em camadas: Controller, Service, Repository, Entity e DTO.
 
 ---
 
-### 🚀 Objetivo
+## 📊 GitHub Stats
 
-Crescer como desenvolvedor, contribuindo em projetos desafiadores, com foco em **back-end**, **integração de sistemas** e **automações que realmente agreguem valor**.
+<p align="center">
+  <img 
+    height="165em" 
+    src="https://github-readme-stats.vercel.app/api?username=Nopri010&show_icons=true&theme=tokyonight&hide_border=true" 
+  />
+  <img 
+    height="165em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nopri010&layout=compact&theme=tokyonight&hide_border=true" 
+  />
+</p>
 
 ---
 
-<p align="center">💬 Obrigado por visitar meu perfil! Entre em contato se quiser trocar uma ideia ou colaborar em algum projeto.</p>
+## 🎯 Objetivo
+
+Evoluir como desenvolvedor, contribuindo em projetos desafiadores com foco em **back-end, integrações, automações e soluções que gerem valor real**.
